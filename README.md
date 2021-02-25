@@ -1,5 +1,5 @@
-# Homework #12
-## Tales From the Crypto
+# Natural Language Processing
+
 ### Heather Byrd, 01/26/2021
 
 Required Inputs: .env file with news api key
